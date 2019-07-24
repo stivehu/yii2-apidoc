@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yiiunit\apidoc\data\api\animal;
+namespace stivehuunit\apidoc\data\api\animal;
 
 /**
  * Dog represents a dog animal.

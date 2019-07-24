@@ -1,6 +1,6 @@
 <?php
 
-namespace yiiunit\apidoc;
+namespace stivehuunit\apidoc;
 
 use yii\di\Container;
 use yii\helpers\ArrayHelper;

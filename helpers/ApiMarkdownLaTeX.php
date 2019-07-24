@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\helpers;
+namespace stivehu\apidoc\helpers;
 
 use cebe\markdown\latex\GithubMarkdown;
 use yii\apidoc\models\TypeDoc;

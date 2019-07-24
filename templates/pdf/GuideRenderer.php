@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\templates\pdf;
+namespace stivehu\apidoc\templates\pdf;
 
 use Yii;
 use yii\apidoc\helpers\ApiMarkdownLaTeX;

@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\templates\json;
+namespace stivehu\apidoc\templates\json;
 
 use yii\apidoc\models\ClassDoc;
 use yii\apidoc\models\Context;

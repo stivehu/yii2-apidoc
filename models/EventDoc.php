@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\models;
+namespace stivehu\apidoc\models;
 
 use phpDocumentor\Reflection\DocBlock\Tag\ReturnTag;
 

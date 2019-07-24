@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\templates\html;
+namespace stivehu\apidoc\templates\html;
 
 use yii\apidoc\helpers\ApiMarkdown;
 use yii\helpers\Console;

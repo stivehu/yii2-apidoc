@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\renderers;
+namespace stivehu\apidoc\renderers;
 
 use Yii;
 use yii\apidoc\helpers\ApiMarkdown;

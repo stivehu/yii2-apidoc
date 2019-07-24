@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\templates\online;
+namespace stivehu\apidoc\templates\online;
 
 use yii\apidoc\models\TypeDoc;
 use Yii;

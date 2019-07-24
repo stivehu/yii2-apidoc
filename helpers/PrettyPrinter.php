@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\helpers;
+namespace stivehu\apidoc\helpers;
 
 use PhpParser\Node\Expr;
 

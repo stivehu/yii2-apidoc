@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\commands;
+namespace stivehu\apidoc\commands;
 
 use yii\apidoc\components\BaseController;
 use yii\apidoc\helpers\ApiMarkdown;

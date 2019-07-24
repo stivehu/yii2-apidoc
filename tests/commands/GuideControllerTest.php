@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yiiunit\apidoc\commands;
+namespace stivehuunit\apidoc\commands;
 
 use Yii;
 use yiiunit\apidoc\support\controllers\GuideControllerMock;

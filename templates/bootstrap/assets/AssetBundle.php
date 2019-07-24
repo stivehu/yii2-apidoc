@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\templates\bootstrap\assets;
+namespace stivehu\apidoc\templates\bootstrap\assets;
 
 use yii\web\View;
 

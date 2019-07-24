@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\templates\bootstrap;
+namespace stivehu\apidoc\templates\bootstrap;
 
 use yii\apidoc\models\TypeDoc;
 

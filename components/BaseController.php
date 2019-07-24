@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\components;
+namespace stivehu\apidoc\components;
 
 use yii\apidoc\renderers\BaseRenderer;
 use yii\console\Controller;

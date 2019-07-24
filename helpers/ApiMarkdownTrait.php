@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\helpers;
+namespace stivehu\apidoc\helpers;
 
 use phpDocumentor\Reflection\DocBlock\Type\Collection;
 use yii\apidoc\models\MethodDoc;

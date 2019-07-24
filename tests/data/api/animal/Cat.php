@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yiiunit\apidoc\data\api\animal;
+namespace stivehuunit\apidoc\data\api\animal;
 
 /**
  * Cat represents a cat animal.

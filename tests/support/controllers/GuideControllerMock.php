@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yiiunit\apidoc\support\controllers;
+namespace stivehuunit\apidoc\support\controllers;
 
 use yii\apidoc\commands\GuideController;
 

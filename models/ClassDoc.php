@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\apidoc\models;
+namespace stivehu\apidoc\models;
 
 /**
  * Represents API documentation information for a `class`.
